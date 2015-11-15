@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5bdb38b7e4b6094891648c1dc4dc08589b460f97">
+        <dex dex="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/pre-dexed/debug/classes-750df8889eb641fbf362f0b88337066c1b94edf4.jar" />
+    </item>
+    <item
+        jar="/Users/Syahir/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-aa2aa1a1e9354cf8cc1e02d6d7a46f9387de796d.jar" />
+    </item>
+    <item
+        jar="/Users/Syahir/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/pre-dexed/debug/picasso-2.5.2-2e2c2c1c5a854b6463a4343d5a6d9b06ea5355cb.jar" />
+    </item>
+    <item
+        jar="/Users/Syahir/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-868b4c406974c62a3ce359ac58a9fee2236f0b94.jar" />
+    </item>
+    <item
+        jar="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/pre-dexed/debug/classes-0f6554135e6f4ab7c4473c26d8eb707f17014c46.jar" />
+    </item>
+    <item
+        jar="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/libs/microsoft-band-1.3.10929.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fc45a6f0a8705352b5bc3fa319ab7e7b585190c6">
+        <dex dex="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/pre-dexed/debug/microsoft-band-1.3.10929.1-cfd38d7290467cbbae44fc91aeb6a83900393f64.jar" />
+    </item>
+    <item
+        jar="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/exploded-aar/WebMobileGroupChat/androidwebsocketsmaster/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="32a385eee446c38218a06c81372cf2b190b7199d">
+        <dex dex="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/pre-dexed/debug/classes-7edc903313642e5dbf949e6a18524b242b14fe8d.jar" />
+    </item>
+    <item
+        jar="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-69df98f9ec57f4cc634d8fc3d765d72b9d71fb5d.jar" />
+    </item>
+    <item
+        jar="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Syahir/Desktop/WebMobileGroupChat/webMobileGroupChat/build/intermediates/pre-dexed/debug/classes-13c4491ed978babe7850c5a13c2ee63cd720db9c.jar" />
+    </item>
+
+</items>
